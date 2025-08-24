@@ -2,7 +2,7 @@
 
 This is to help you learn how to use Gradescope. First, create a file named `practice_submission.py` that includes **only** the code
 
-```
+```python
 print("Howdy, World?")
 ```
 
